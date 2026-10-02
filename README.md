@@ -6,7 +6,9 @@ TODO: Replace this line with a 30-300 character description of what this project
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+
+
+python3 clinic_report.py
 
 ## Files
 
