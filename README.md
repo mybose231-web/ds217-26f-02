@@ -2,7 +2,7 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+The following project converts a messy clinic export into a blood pressure summary and a list of patients that the clinic should call back.
 
 ## Run
 

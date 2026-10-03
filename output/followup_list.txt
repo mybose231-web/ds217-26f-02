@@ -1,0 +1,3 @@
+Cutoff: 180 mmHg
+Reason: I chose 180 as the cutoff threshold because it is the hypertensive crisis threshold so readings at or above it are most urgent.
+P018
